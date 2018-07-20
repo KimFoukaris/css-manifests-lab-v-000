@@ -2,5 +2,5 @@
 /*
 *= require bootstrap-addon.css
 *= require pages.css
-*= hidden_styles.css
+*= require hidden_styles.css
 */
